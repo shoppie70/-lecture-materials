@@ -31,7 +31,6 @@
 ### GoodNotes
 iPadで授業していた画面のキャプチャ集になります。
 - [GoodNotes](https://github.com/shoppie70/lecture-materials/tree/main/Terakoya/Good%20notes)
-- 
 ### 数学
 - [三角比の基本](https://github.com/shoppie70/lecture-materials/blob/main/Terakoya/%E4%B8%89%E8%A7%92%E6%AF%94%E3%81%AE%E5%9F%BA%E6%9C%AC.pdf)
 - [ラプラス変換と微分方程式](https://github.com/shoppie70/lecture-materials/blob/main/Laplace_transform/basics.pdf)
